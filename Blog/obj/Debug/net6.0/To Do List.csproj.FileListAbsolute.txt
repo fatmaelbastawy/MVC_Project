@@ -1,0 +1,440 @@
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\libman.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\appsettings.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\To Do List.staticwebassets.runtime.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\To Do List.exe
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\To Do List.deps.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\To Do List.runtimeconfig.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\To Do List.pdb
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cs
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\staticwebassets\msbuild.To Do List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\staticwebassets\msbuild.build.To Do List.props
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To Do List.props
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To Do List.props
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\scopedcss\bundle\To Do List.styles.css
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\scopedcss\projectbundle\To Do List.bundle.scp.css
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\refint\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.pdb
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\To Do List.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation\Blog\obj\Debug\net6.0\ref\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\appsettings.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\libman.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\To Do List.staticwebassets.runtime.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\To Do List.exe
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\To Do List.deps.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\To Do List.runtimeconfig.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\To Do List.pdb
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cs
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\staticwebassets\msbuild.To Do List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\staticwebassets\msbuild.build.To Do List.props
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To Do List.props
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To Do List.props
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\scopedcss\bundle\To Do List.styles.css
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\scopedcss\projectbundle\To Do List.bundle.scp.css
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\refint\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.pdb
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\To Do List.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\MVCProject\CrudOperation - Copy\Blog\obj\Debug\net6.0\ref\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\appsettings.json
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\libman.json
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.staticwebassets.runtime.json
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.exe
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.deps.json
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.runtimeconfig.json
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.pdb
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cache
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cs
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.To Do List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.build.To Do List.props
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To Do List.props
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To Do List.props
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\scopedcss\bundle\To Do List.styles.css
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\scopedcss\projectbundle\To Do List.bundle.scp.css
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\refint\To Do List.dll
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.pdb
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\MVCProject\SimpleTodo\Blog\obj\Debug\net6.0\ref\To Do List.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\appsettings.json
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\libman.json
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.staticwebassets.runtime.json
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.exe
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.deps.json
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.runtimeconfig.json
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.pdb
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.csproj.AssemblyReference.cache
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.AssemblyInfoInputs.cache
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.AssemblyInfo.cs
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cache
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cs
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.To Do List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.build.To Do List.props
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To Do List.props
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To Do List.props
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\scopedcss\bundle\To Do List.styles.css
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\scopedcss\projectbundle\To Do List.bundle.scp.css
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.csproj.CopyComplete
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\refint\To Do List.dll
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.pdb
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.genruntimeconfig.cache
+C:\Users\Elmasry\Downloads\SimpleTodo\Blog\obj\Debug\net6.0\ref\To Do List.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\appsettings.json
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\libman.json
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.staticwebassets.runtime.json
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.exe
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.deps.json
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.runtimeconfig.json
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\To Do List.pdb
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.csproj.AssemblyReference.cache
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.AssemblyInfoInputs.cache
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.AssemblyInfo.cs
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cache
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.RazorAssemblyInfo.cs
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.To Do List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.build.To Do List.props
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To Do List.props
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To Do List.props
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\scopedcss\bundle\To Do List.styles.css
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\scopedcss\projectbundle\To Do List.bundle.scp.css
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.csproj.CopyComplete
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\refint\To Do List.dll
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.pdb
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\To Do List.genruntimeconfig.cache
+C:\Users\Elmasry\Desktop\SimpleTodo-fatmaelbastawy\SimpleTodo\Blog\obj\Debug\net6.0\ref\To Do List.dll
